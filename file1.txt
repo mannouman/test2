@@ -1,2 +1,2 @@
-fichier 1
+fichier 1 modifié pour conflit
 brancheA
