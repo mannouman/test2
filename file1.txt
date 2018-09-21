@@ -1,3 +1,4 @@
 fichier 1 modifié avec un conflit
 Hello tout le monde !
-brancheAblablabladazd
+branche
+78978898
