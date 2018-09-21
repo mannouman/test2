@@ -1,2 +1,3 @@
 fichier 1 modifié avec un conflit
+Hello les amis !
 brancheA
